@@ -66,4 +66,3 @@ Where image_capacity = width × height × 3 bytes (RGB pixels).
 
 👤 Author
 Vamsi D
-Batch No: 25039_005
